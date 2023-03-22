@@ -1,0 +1,24 @@
+h1 {
+  font-size: 300;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  
+}
+
+#terrain {
+    display: flex;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+#terrain2 {
+  display: flex;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+#gameover {
+  display: none;
+  color: red;
+  font-size: 300%;
+}
